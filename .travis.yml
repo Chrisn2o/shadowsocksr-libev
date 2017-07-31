@@ -49,8 +49,9 @@ script:
           ./configure;
       fi
     - make
-    - cmake ./ 
-    - make
+    - mkdir build
+    - cd build && cmake ../ && make   
+
 branches:
     only:
         - master
