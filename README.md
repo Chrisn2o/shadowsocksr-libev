@@ -11,7 +11,7 @@ created by [@clowwindy](https://github.com/clowwindy), which is maintained by
 
 Current version: 2.5.6 | [Changelog](debian/changelog)
 
-Travis CI: [![Travis CI](https://travis-ci.org/shadowsocks/shadowsocks-libev.svg?branch=master)](https://travis-ci.org/shadowsocks/shadowsocks-libev)
+Travis CI: [![Build Status](https://travis-ci.org/Readour/shadowsocksr-libev.svg?branch=master)](https://travis-ci.org/Readour/shadowsocksr-libev)
 
 ## Features
 
