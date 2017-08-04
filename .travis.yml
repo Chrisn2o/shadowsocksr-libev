@@ -4,6 +4,7 @@ dist : trusty
 compiler: clang
 os:
     - linux
+    - osx
 env:
     global:
         - LIBSODIUM_VER=1.0.12
